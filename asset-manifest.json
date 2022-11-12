@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/randomCards/static/css/main.00b19512.chunk.css",
-    "main.js": "/randomCards/static/js/main.b3bb7907.chunk.js",
-    "main.js.map": "/randomCards/static/js/main.b3bb7907.chunk.js.map",
-    "runtime-main.js": "/randomCards/static/js/runtime-main.abb610b7.js",
-    "runtime-main.js.map": "/randomCards/static/js/runtime-main.abb610b7.js.map",
-    "static/js/2.71a7be2a.chunk.js": "/randomCards/static/js/2.71a7be2a.chunk.js",
-    "static/js/2.71a7be2a.chunk.js.map": "/randomCards/static/js/2.71a7be2a.chunk.js.map",
-    "static/js/3.979ca2a9.chunk.js": "/randomCards/static/js/3.979ca2a9.chunk.js",
-    "static/js/3.979ca2a9.chunk.js.map": "/randomCards/static/js/3.979ca2a9.chunk.js.map",
+    "main.css": "/randomCards/static/css/main.380b8b77.chunk.css",
+    "main.js": "/randomCards/static/js/main.e7ad8e30.chunk.js",
+    "main.js.map": "/randomCards/static/js/main.e7ad8e30.chunk.js.map",
+    "runtime-main.js": "/randomCards/static/js/runtime-main.a1a21f5c.js",
+    "runtime-main.js.map": "/randomCards/static/js/runtime-main.a1a21f5c.js.map",
+    "static/js/2.ef7c4935.chunk.js": "/randomCards/static/js/2.ef7c4935.chunk.js",
+    "static/js/2.ef7c4935.chunk.js.map": "/randomCards/static/js/2.ef7c4935.chunk.js.map",
+    "static/js/3.c85ba791.chunk.js": "/randomCards/static/js/3.c85ba791.chunk.js",
+    "static/js/3.c85ba791.chunk.js.map": "/randomCards/static/js/3.c85ba791.chunk.js.map",
     "index.html": "/randomCards/index.html",
-    "static/css/main.00b19512.chunk.css.map": "/randomCards/static/css/main.00b19512.chunk.css.map",
-    "static/js/2.71a7be2a.chunk.js.LICENSE.txt": "/randomCards/static/js/2.71a7be2a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/randomCards/static/media/post03.eb5cc231.jpg",
+    "static/css/main.380b8b77.chunk.css.map": "/randomCards/static/css/main.380b8b77.chunk.css.map",
+    "static/js/2.ef7c4935.chunk.js.LICENSE.txt": "/randomCards/static/js/2.ef7c4935.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/randomCards/static/media/post01.cb4e6fdf.png",
+    "static/media/default.7997d225.png": "/randomCards/static/media/default.7997d225.png",
+    "static/media/randomCard01.e86d1b06.gif": "/randomCards/static/media/randomCard01.e86d1b06.gif",
     "static/media/randomCard02.206d72bd.gif": "/randomCards/static/media/randomCard02.206d72bd.gif",
     "static/media/randomCard03.2d9885db.gif": "/randomCards/static/media/randomCard03.2d9885db.gif",
-    "static/media/randomCard04.07d9d9ca.gif": "/randomCards/static/media/randomCard04.07d9d9ca.gif",
-    "static/media/randomCards.e86d1b06.gif": "/randomCards/static/media/randomCards.e86d1b06.gif"
+    "static/media/randomCard04.07d9d9ca.gif": "/randomCards/static/media/randomCard04.07d9d9ca.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.abb610b7.js",
-    "static/js/2.71a7be2a.chunk.js",
-    "static/css/main.00b19512.chunk.css",
-    "static/js/main.b3bb7907.chunk.js"
+    "static/js/runtime-main.a1a21f5c.js",
+    "static/js/2.ef7c4935.chunk.js",
+    "static/css/main.380b8b77.chunk.css",
+    "static/js/main.e7ad8e30.chunk.js"
   ]
 }
